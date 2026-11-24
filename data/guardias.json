@@ -1,0 +1,6 @@
+[
+  { "id": 1, "sector": "Guardia Diurna", "valorHora": 6500, "cuposDisponibles": 5 },
+  { "id": 2, "sector": "Guardia Nocturna / Feriado", "valorHora": 8500, "cuposDisponibles": 4 },
+  { "id": 3, "sector": "Guardia de Refuerzo", "valorHora": 7500, "cuposDisponibles": 6 },
+  { "id": 4, "sector": "Terapia Intensiva", "valorHora": 9200, "cuposDisponibles": 2 }
+]
